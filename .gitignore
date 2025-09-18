@@ -1,0 +1,25 @@
+# Virtual environment
+ml-env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# VS Code personal settings
+.vscode/settings.json
+.vscode/launch.json
+
+# Data and models (usually too big for git)
+data/raw/
+data/processed/
+models/*.pkl
+models/*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
