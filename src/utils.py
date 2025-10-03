@@ -6,7 +6,7 @@ Utility functions for ML playground
 def hello_ml():
     """Simple function to test package imports"""
     print("Hello from ML Playground package! Tying these stuffs for the first time.")
-    return "Package working correctly, hiyeee!"
+    return "Package working correctly, hiyeee uh oh ah!"
 
 
 def create_sample_data(n_samples=100, n_features=2):
